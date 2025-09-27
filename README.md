@@ -12,14 +12,14 @@ Um aplicativo de cálculo de **IMC (Índice de Massa Corporal)** feito em **Flut
 - 
 ## Screenshots
 
-!(![Home](<img width="720" height="1280" alt="Screenshot_20250927_123747" src="https://github.com/user-attachments/assets/3890b5cd-8f88-419e-a5e7-038a446d0015" />))
+!(![Home](<img width="720" height="1280" alt="Screenshot_20250927_123747" src="https://github.com/user-attachments/assets/3890b5cd-8f88-419e-a5e7-038a446d0015" />a)
 
 
-!(![Medidas](<img width="720" height="1280" alt="Screenshot_20250927_123909" src="https://github.com/user-attachments/assets/12313fd6-f4e7-4ae4-a160-60cca6e9ad2a" />))
+!(![Medidas](<img width="720" height="1280" alt="Screenshot_20250927_123909" src="https://github.com/user-attachments/assets/12313fd6-f4e7-4ae4-a160-60cca6e9ad2a" />a)
 
-!(![FaltaDeDaods](<img width="720" height="1280" alt="Screenshot_20250927_124017" src="https://github.com/user-attachments/assets/60ecb7c3-f5da-4e6d-8c5f-ddcbb73fd7e9" />))
+!(![FaltaDeDaods](<img width="720" height="1280" alt="Screenshot_20250927_124017" src="https://github.com/user-attachments/assets/60ecb7c3-f5da-4e6d-8c5f-ddcbb73fd7e9" />a)
 
-!](![FaltandoDado](<img width="720" height="1280" alt="Screenshot_20250927_124033" src="https://github.com/user-attachments/assets/829ddcaa-e726-44ce-ad80-94abc4f5939e" />))
+!](![FaltandoDado](<img width="720" height="1280" alt="Screenshot_20250927_124033" src="https://github.com/user-attachments/assets/829ddcaa-e726-44ce-ad80-94abc4f5939e" />a)
 
 
 
